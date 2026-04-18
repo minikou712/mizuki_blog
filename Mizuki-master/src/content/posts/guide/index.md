@@ -1,5 +1,5 @@
 ---
-title: Simple Guides for Mizuki
+title: Hello World!
 published: 2026-04-19
 description: "How to use this blog template."
 image: "./cover.webp"
