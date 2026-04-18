@@ -159,7 +159,7 @@ export const siteConfig: SiteConfig = {
 			title: "MiNiKou的博客", // 主页横幅主标题
 
 			subtitle: [
-				"打游戏，看动漫，写写代码，活着真好",
+				"二次元真好",
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
